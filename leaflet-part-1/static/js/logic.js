@@ -171,9 +171,10 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
    
         var colors = [
         "green",
-        "cafc03",
-        "fcad03",
-        "fc8403",
+        "#cafc03",
+        "#fcad03",
+        "#fc4903",
+        "#fc8403",
         "red"
         ];
 
